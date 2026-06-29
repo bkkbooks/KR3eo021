@@ -1,0 +1,486 @@
+canonical_identifier: bkk:krp/KR3eo021/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eo021/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 心印紺珠經
+  identifiers:
+    krp: KR3eo021
+  tags:
+    kr-categories: KR3eo
+    tls-dates: dat04310
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo021.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3eo021_001-jc.yaml, hash: 'sha256:e3144c8b20c0085c38e7e6bb682f5e0c9e6b3e29c83f6ab19245deb1b2f0d430'}
+  - {seq: 3, filename: KR3eo021_003-jc.yaml, hash: 'sha256:b0a295b3399351927dba45c373e4a281916b322a78698902411b415b6c1d6e9c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3eo021_001-jc.markers.yaml, hash: 'sha256:3db8dcb577151cee0699c77b438003af69872a255517869d2e41426c67ad5438'}
+  - {seq: 3, role: markers, filename: assets/KR3eo021_003-jc.markers.yaml, hash: 'sha256:584595e757300c1c4555ef1a20e73a2f41063d41fb95f1bbadbd60727320c3e2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 13687
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 1906
+  label: 原道統第一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d3
+    span:
+    - body
+    - 1906
+    - 6901
+  label: 推運氣第二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d4
+    span:
+    - body
+    - 6901
+    - 7808
+  label: 明形氣第三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d5
+    span:
+    - body
+    - 7808
+    - 7996
+  label: 五臟六腑之位
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d6
+    span:
+    - body
+    - 7996
+    - 8205
+  label: 五臟六腑之官
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d7
+    span:
+    - body
+    - 8205
+    - 8299
+  label: 五臟之候
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d8
+    span:
+    - body
+    - 8299
+    - 8391
+  label: 五臟之竅
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d9
+    span:
+    - body
+    - 8391
+    - 8516
+  label: 五臟所生
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d10
+    span:
+    - body
+    - 8516
+    - 8540
+  label: 五臟所養
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d11
+    span:
+    - body
+    - 8540
+    - 8567
+  label: 四海
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d12
+    span:
+    - body
+    - 8567
+    - 8583
+  label: 八溪
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d13
+    span:
+    - body
+    - 8583
+    - 8594
+  label: 一谷
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d14
+    span:
+    - body
+    - 8594
+    - 8616
+  label: 藏府配經絡圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d15
+    span:
+    - body
+    - 8616
+    - 8622
+  label: 水穀化精神圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d16
+    span:
+    - body
+    - 8622
+    - 9980
+  label: 十二經絡
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d17
+    span:
+    - body
+    - 9980
+    - 10121
+  label: 奇經八脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d18
+    span:
+    - body
+    - 10121
+    - 10187
+  label: 臟腑配五行圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d19
+    span:
+    - body
+    - 10187
+    - 10349
+  label: 經絡配四時圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d20
+    span:
+    - body
+    - 10349
+    - 10822
+  label: 評脈法第四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d21
+    span:
+    - body
+    - 10822
+    - 11494
+  label: 三部九候圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d22
+    span:
+    - body
+    - 11494
+    - 11948
+  label: 四時平脈應天運圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d23
+    span:
+    - body
+    - 11948
+    - 11956
+  label: 氣血流轉分晝夜圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d24
+    span:
+    - body
+    - 11956
+    - 11962
+  label: 司天不應脈圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d25
+    span:
+    - body
+    - 11962
+    - 11969
+  label: 男子尺脈常弱圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d26
+    span:
+    - body
+    - 11969
+    - 12104
+  label: 女子尺脈常盛圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d27
+    span:
+    - body
+    - 12104
+    - 12442
+  label: 六部主位圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d28
+    span:
+    - body
+    - 12442
+    - 12631
+  label: 六氣客脈圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d29
+    span:
+    - body
+    - 12631
+    - 12641
+  label: 婦人陰搏陽別有子脈圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d30
+    span:
+    - body
+    - 12641
+    - 12714
+  label: 小兒食指辨三關色圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d31
+    span:
+    - body
+    - 12714
+    - 12805
+  label: 脈位輕重
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d32
+    span:
+    - body
+    - 12805
+    - 13082
+  label: 脈息遲數
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d33
+    span:
+    - body
+    - 13082
+    - 13327
+  label: 七表屬陽
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d34
+    span:
+    - body
+    - 13327
+    - 13551
+  label: 八里屬陰
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo021_jc_001-d2d35
+    span:
+    - body
+    - 13551
+    - 13687
+  label: 斷生死訣
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo021_jc_003-d3.h1s1
+    span:
+    - body
+    - 0
+    - 18715
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eo021_jc_003-d3d2
+    span:
+    - body
+    - 2
+    - 4039
+  label: 察病機第五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo021_jc_003-d3d3
+    span:
+    - body
+    - 4039
+    - 4465
+  label: 理傷寒第六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo021_jc_003-d3d4
+    span:
+    - body
+    - 4465
+    - 4894
+  label: 六經傳受
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo021_jc_003-d3d5
+    span:
+    - body
+    - 4894
+    - 5044
+  label: 汗氣傳染
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo021_jc_003-d3d6
+    span:
+    - body
+    - 5044
+    - 5100
+  label: 內外傷辨
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo021_jc_003-d3d7
+    span:
+    - body
+    - 5100
+    - 5156
+  label: 表裡證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo021_jc_003-d3d8
+    span:
+    - body
+    - 5156
+    - 6425
+  label: 主療心法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo021_jc_003-d3d9
+    span:
+    - body
+    - 6425
+    - 10188
+  label: 演治法第七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo021_jc_003-d3d10
+    span:
+    - body
+    - 10188
+    - 14350
+  label: 辨藥性情第八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo021_jc_003-d3d11
+    span:
+    - body
+    - 14350
+    - 18715
+  label: 十八劑第九
+  type: section
+  level: 2
+hash: sha256:a40a047142364fd30f63ff321fc05405fea11feb1dadc3adf3cd8ddb1c3eff90
