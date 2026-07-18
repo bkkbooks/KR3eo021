@@ -20,8 +20,8 @@ assets:
   - {seq: 1, filename: KR3eo021_001-jc.yaml, hash: 'sha256:e3144c8b20c0085c38e7e6bb682f5e0c9e6b3e29c83f6ab19245deb1b2f0d430'}
   - {seq: 3, filename: KR3eo021_003-jc.yaml, hash: 'sha256:b0a295b3399351927dba45c373e4a281916b322a78698902411b415b6c1d6e9c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3eo021_001-jc.markers.yaml, hash: 'sha256:3db8dcb577151cee0699c77b438003af69872a255517869d2e41426c67ad5438'}
-  - {seq: 3, role: markers, filename: assets/KR3eo021_003-jc.markers.yaml, hash: 'sha256:584595e757300c1c4555ef1a20e73a2f41063d41fb95f1bbadbd60727320c3e2'}
+  - {seq: 1, role: markers, filename: assets/KR3eo021_001-jc.markers.yaml, hash: 'sha256:03619c6c3afe0ccc85f2d41ebdbb93cd0341a18197a35d1f91e29437ce564f30'}
+  - {seq: 3, role: markers, filename: assets/KR3eo021_003-jc.markers.yaml, hash: 'sha256:1f4dabbcb4c456ea5f3072d0e2107c85a0561ada334356aecbf407552ec634d3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -483,4 +483,4 @@ table_of_contents:
   label: 十八劑第九
   type: section
   level: 2
-hash: sha256:a40a047142364fd30f63ff321fc05405fea11feb1dadc3adf3cd8ddb1c3eff90
+hash: sha256:cf4576772b38f6addda4a4e684482ae92ee0917e105f7e099499021bf127393b
